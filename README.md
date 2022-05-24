@@ -11,3 +11,4 @@ Curso JavaScript: Desde cero con NodeJS de Udemy.
 - Organizar la estructura del código de forma modular, escalable y resiliente.
 - Manejarar la persistencia de datos en una plataforma en la nube.
 - Desplegar el proyecto en una plataforma en la nube.
+- Js, NodeJs, MongoDB, REST APIS
