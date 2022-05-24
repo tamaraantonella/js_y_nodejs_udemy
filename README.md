@@ -1,9 +1,10 @@
 # js_y_nodejs_udemy
+
 Curso JavaScript: Desde cero con NodeJS de Udemy.
 
-### Contenido del curso:
+## Contenido del curso
 
-- Dominar los fundamentos del lenguaje JavaScript
+- Dominar los fundamentos del lenguaje JavaScript.
 - Manejar tipos de datos estructurados como un profesional.
 - Comprender cómo funciona el asincronismo en JavaScript.
 - Crear aplicaciones del lado del servidor con JavaScript.
